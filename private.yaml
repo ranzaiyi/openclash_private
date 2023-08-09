@@ -9,6 +9,7 @@
 
 - DOMAIN-SUFFIX,ea.com,DIRECT
 - DOMAIN-SUFFIX,gog.com,DIRECT
+- DOMAIN-SUFFIX,youdao.com,DIRECT
 
 
 ##排序在上的规则优先生效,如添加（去除规则前的#号）：
